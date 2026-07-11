@@ -1,0 +1,11 @@
+{
+  "https://bluvira.com": {
+    "status_code": 200,
+    "canonical": "https://www.bluvira.com/",
+    "meta_robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "x_robots_tag": "Not Found"
+  },
+  "_robots_txt": {
+    "bluvira.com": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://www.bluvira.com/sitemap_index.xml"
+  }
+}
