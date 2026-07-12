@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,7 +36,9 @@ jobs:
         run: |
           git config user.name "SEO Radar Bot"
           git config user.email "radar-bot@github.com"
+          git stash --include-untracked
           git pull --rebase origin main
+          git stash pop
           git add data/radar.db data/discovered_urls.json
           git diff --cached --quiet || git commit -m "chore: update SEO data [skip ci]"
           git push
