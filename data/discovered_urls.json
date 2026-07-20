@@ -57,9 +57,10 @@
       "https://www.bluvira.com/page-sitemap.xml",
       "https://www.bluvira.com/product-sitemap.xml",
       "https://www.bluvira.com/category-sitemap.xml",
-      "https://www.bluvira.com/product_cat-sitemap.xml"
+      "https://www.bluvira.com/product_cat-sitemap.xml",
+      "https://www.bluvira.com/%d8%ae%d9%84%d8%a7%d8%b5%d9%87-%da%a9%d8%aa%d8%a7%d8%a8-%d8%af%db%8c%d8%af-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%db%8c"
     ],
-    "last_updated": "2026-07-19T11:01:49.966438"
+    "last_updated": "2026-07-20T13:26:06.999306"
   },
   "www.bluvira.com": {
     "urls": [
@@ -395,8 +396,9 @@
       "https://www.bluvira.com/%d8%b3%d8%a6%d9%88-%d8%af%d8%a7%d8%ae%d9%84%db%8c-%d8%af%db%8c%da%af%d8%b1-%da%86%db%8c%d8%b3%d8%aa%d8%9f",
       "https://www.bluvira.com/long-tail-keywords",
       "https://www.bluvira.com/crawlability",
-      "https://www.bluvira.com/how-can-we-enable-seo-for-our-site"
+      "https://www.bluvira.com/how-can-we-enable-seo-for-our-site",
+      "https://www.bluvira.com/category/%d8%a8%d9%84%d9%88-%d9%88%db%8c%d8%b1%d8%a7-%d8%a8%d9%84%d8%a7%da%af/%d8%aa%d9%88%d8%b3%d8%b9%d9%87-%d9%81%d8%b1%d8%af%db%8c-%d9%88-%d9%85%d8%a7%d9%84%db%8c"
     ],
-    "last_updated": "2026-07-19T11:01:45.622211"
+    "last_updated": "2026-07-20T13:26:10.007565"
   }
 }
